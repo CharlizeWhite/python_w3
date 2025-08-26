@@ -21,8 +21,6 @@ print(type(x))
 """
 # el output seria el siguiente: <class 'int'>
 
-<<<<<<< HEAD
-=======
 #Configurando el Tipo de Dato
 #En Python el tipo de dato se establece hasta que se asigna valor a la variable
 """
@@ -92,4 +90,4 @@ print(type(c))
 import random
 print(random.randrange(1,10))
 """
->>>>>>> 154691a (avance hasta phyton casting)
+
