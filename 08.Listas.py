@@ -16,10 +16,10 @@ print(thislist)
 #Elementos de la Lista
 #Los elementos de la lista se ordenan, cambian y permiten valores duplicados
 #Los elementos son indexados,
-#iniciando el primer elemento con [0], el segundo [1], etc
+#iniciando el primer elemento con [0], el segundo [1], etc.
 
 #Ordenado
-#Cuando se dice que las Listan estan ordenadas, significa que los items
+#Cuando se dice que las Listan están ordenadas, significa que los items
 #tienen un orden definido, y ese orden no cambia
 
 #Cuando se agregan nuevos items, el nuevo item se coloca al final de la lista
@@ -28,10 +28,10 @@ print(thislist)
 
 #Cambiante
 #Las listas son cambiantes, significa que puenden cambiar, agregar y remover
-#elementos de una lista despues de ser creada
+#elementos de una lista después de ser creada
 
 #Permite Duplicados
-#Dado que las listas estan indexadas, pueden tener elementos
+#Dado que las listas están indexadas, pueden tener elementos
 #con los mismos valores
 
 thislist1 = ["apple", "banana", "cherry","apple", "orange"]
@@ -57,7 +57,7 @@ print(thislist2)
 #Hay 4 tipo de datos de colecciones en Python:
 #List, coleccion ordenada, cambiable y permite valores duplicados
 
-#Tuple, es ordenada y no-cambiable. Permite valores duplicadas
+#Tuple, es ordenada y no-cambiable. Permite valores duplicados.
 
 #Set, coleccion no-ordenada, no-cambiable (aunque se pueden agregar y remover items), un-indexada
 # no permite items duplicados
